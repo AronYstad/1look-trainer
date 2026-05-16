@@ -8,7 +8,7 @@ moves = ["U", "R", "L", "B", "U'", "R'", "L'", "B'"]
 
 nNS = 131
 
-cases = [" R U R", " L' U' L'", " B U' R' U", " R' L R B'", " B R U'", " L' U' L", " R U R' B' L' U", " B U' R U'", " B U' R U B"]
+cases = [" R U R", " L' U' L'", " B U' R' U", " R' L R B'", " B R U'", " L' U' L", " R U R' B' L' U", " B U' R U'", " B U' R U B", " B' L' U' L B'"]
 nCases = len(cases)
 
 nMoves = int(input("Enter number of random moves: "))
